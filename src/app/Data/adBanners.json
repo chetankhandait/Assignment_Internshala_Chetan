@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "Summer Sale",
+    "description": "Get up to 50% off on selected items!",
+    "cta": "Shop Now",
+    "image": "./img_3.jpg",
+    "background": "./img_2.jpg",
+    "design": {
+      "backgroundColor": "#000000",
+      "title": {
+        "font": "Arial",
+        "color": "#ffffff",
+        "position": { "x": 20, "y": 40 },
+        "fontSize": 24
+      },
+      "description": {
+        "font": "Arial",
+        "color": "#ffffff",
+        "position": { "x": 20, "y": 80 },
+        "fontSize": 18
+      },
+      "cta": {
+        "color": "#0000ff",
+        "textColor": "#ffffff",
+        "position": { "x": 20, "y": 240 },
+        "fontSize": 16,
+        "width": 150,
+        "height": 40
+      },
+      "image": {
+        "position": { "x": 20, "y": 110 },
+        "width": 120,
+        "height": 120,
+        "shape": "circle", 
+        "borderRadius": 60  
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Summer Sale",
+    "description": "Get up to 50% off on selected items!",
+    "cta": "Shop Now",
+    "image": "./img_3.jpg",
+    "background": "./img_2.jpg",
+    "design": {
+      "backgroundColor": "#000000",
+      "title": {
+        "font": "Arial",
+        "color": "#ffffff",
+        "position": { "x": 250, "y": 40 },
+        "fontSize": 24
+      },
+      "description": {
+        "font": "Arial",
+        "color": "#ffffff",
+        "position": { "x": 110, "y": 80 },
+        "fontSize": 18
+      },
+      "cta": {
+        "color": "#0000ff",
+        "textColor": "#ffffff",
+        "position": { "x": 180, "y": 240 },
+        "fontSize": 16,
+        "width": 150,
+        "height": 40
+      },
+      "image": {
+        "position": { "x": 20, "y": 110 },
+        "width": 120,
+        "height": 120,
+        "shape": "rectangle", 
+        "borderRadius": 0  
+      }
+    }
+  }
+   
+]
