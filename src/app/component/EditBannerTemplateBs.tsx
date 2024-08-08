@@ -101,7 +101,7 @@ const EditBannerTemplateBs: React.FC<BannerEditProps> = ({ banner, onClose, onSa
         </div>
         <div className="flex justify-end">
           <button onClick={onClose} className="text-gray-600 mr-4">Cancel</button>
-          <button onClick={handleSave} className="bg-blue-500 text-white px-4 py-2 rounded">Save</button>
+          <button onClick={handleSave} className="bg-blue-500 text-white px-4 py-2 rounded">Save File</button>
         </div>
       </div>
     </div>
